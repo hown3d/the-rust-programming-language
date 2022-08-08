@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "adder"
-version = "0.1.0"
-
-[[package]]
-name = "tests"
+name = "smart-pointers"
 version = "0.1.0"

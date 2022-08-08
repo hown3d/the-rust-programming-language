@@ -1,0 +1,20 @@
+[workspace]
+
+members = [
+    "2-guess-game",
+    "3.2-data-types",
+    "3.3-functions",
+    "4-ownership",
+    "5-structs",
+    "6-enums-pattern-matching",
+    "7-modules/restaurant",
+    "8-collections",
+    "9-error-handling",
+    "10-generics",
+    "10.5-lifetimes",
+    "11-tests",
+    "12-cli",
+    "13-functional-features",
+    "15-smart-pointers",
+    "16-concurrency",
+]
