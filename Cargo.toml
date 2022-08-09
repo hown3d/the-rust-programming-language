@@ -17,4 +17,9 @@ members = [
     "13-functional-features",
     "15-smart-pointers",
     "16-concurrency",
+    "17-oop",
+    "17.3-oop-design-pattern",
+    "17.3-rust-style",
+    "19-advanced",
+    "20-web-server"
 ]
